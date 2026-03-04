@@ -173,15 +173,11 @@
 
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brandoncabreradev&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="GitHub Stats" />
   <img height="165"
        src="https://streak-stats.demolab.com?user=brandoncabreradev&theme=tokyonight&hide_border=true"
        alt="GitHub Streak" />
 </p>
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brandoncabreradev&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top Languages" />
 </p>
 <hr/>

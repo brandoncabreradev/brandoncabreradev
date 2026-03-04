@@ -135,7 +135,7 @@
   </a>
 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
+    <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" height="40" alt="NestJS"/>
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">

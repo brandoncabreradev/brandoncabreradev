@@ -110,28 +110,12 @@
 <h3>🛠 Languages and Tools</h3>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" alt="Bootstrap"/>
-  </a>
-
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" alt="Chart.js"/>
   </a>
-
-  <a href="https://circleci.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/circleci/FFFFFF" width="40" height="40" alt="CircleCI"/>
-  </a>
-
+  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" height="40" alt="Express"/>
   </a>
 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
